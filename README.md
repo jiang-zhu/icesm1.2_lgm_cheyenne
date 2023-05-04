@@ -1,7 +1,5 @@
 # icesm1.2_lgm_cheyenne
-Case folder of the iCESM1.2 LGM simulation on Cheyenne
-
-Simulation of the Last Glacial Maximum (at 21 ka before present) using the isotope-enabled CESM
+CESM case folder of the iCESM1.2 LGM simulation on Cheyenne
 
 Please cite the following papers if you use the LGM configuration
  1. Zhu, J., & Poulsen, C. J. (2021). Last Glacial Maximum (LGM) climate forcing and ocean dynamical feedback and their implications for estimating climate sensitivity. Clim. Past, 17(1), 253–267. https://doi.org/10.5194/cp-17-253-2021
