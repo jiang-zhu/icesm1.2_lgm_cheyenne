@@ -1,0 +1,14 @@
+#! /bin/csh -f
+###PBS -A 
+#PBS -N b.e12.B1850C5.f19_g16.i21ka.03.l_archive
+#PBS -q xfer
+#PBS -l walltime=02:00:00
+#PBS -j oe
+#PBS -S /bin/csh -V
+
+cd /glade/u/home/jiangzhu/cesm/cases/b.e12.B1850C5.f19_g16.i21ka.03
+source ./Tools/ccsm_getenv || exit -1
+cd $DOUT_S_ROOT
+/glade/u/home/jiangzhu/cesm/cases/b.e12.B1850C5.f19_g16.i21ka.03/Tools/lt_archive.sh -m copy_dirs_hsi
+exit 0
+

@@ -1,0 +1,2 @@
+fsurdat     = '/glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/surfdata_1.9x2.5_21ka.170505.modshelves.nc'
+urban_hac   = 'OFF'

@@ -1,0 +1,24 @@
+&clm_inparm
+ albice = 0.80,0.55
+ co2_type = 'diagnostic'
+ create_crop_landunit = .false.
+ dtime = 1800
+ fatmlndfrc = '/glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/domain.lnd.fv19_25_gx1v6_21ka.170501.nc'
+ finidat = 'b.e12.21ka.002.clm2.r.0301-01-01-00000.nc'
+ fpftcon = '/glade/p/cesmdata/cseg/inputdata/lnd/clm2/pftdata/pft-physiology.clm40.c130424.nc'
+ fsnowaging = '/glade/p/cesmdata/cseg/inputdata/lnd/clm2/snicardata/snicar_drdt_bst_fit_60_c070416.nc'
+ fsnowoptics = '/glade/p/cesmdata/cseg/inputdata/lnd/clm2/snicardata/snicar_optics_5bnd_c090915.nc'
+ fsurdat = '/glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/surfdata_1.9x2.5_21ka.170505.modshelves.nc'
+ maxpatch_glcmec = 0
+ nsegspc = 20
+ urban_hac = 'OFF'
+ urban_traffic = .false.
+/
+&ndepdyn_nml
+/
+#!--------------------------------------------------------------------------------------------------------------------------
+#! lnd_in:: Comment:
+#! This namelist was created using the following command-line:
+#!     /gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/lnd/clm/bld/CLM build-namelist -infile /glade/u/home/jiangzhu/cesm/cases/b.e12.B1850C5.f19_g16.i21ka.03/Buildconf/clmconf/cesm_namelist -csmdata /glade/p/cesmdata/cseg/inputdata -inputdata /glade/u/home/jiangzhu/cesm/cases/b.e12.B1850C5.f19_g16.i21ka.03/Buildconf/clm.input_data_list -namelist &clm_inparm  / -use_case 1850_control -res 1.9x2.5 -clm_start_type startup -clm_startfile b.e12.21ka.002.clm2.r.0301-01-01-00000.nc -l_ncpl 48 -lnd_frac /glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/domain.lnd.fv19_25_gx1v6_21ka.170501.nc -glc_nec 0 -co2_ppmv 190 -co2_type diagnostic -config /glade/u/home/jiangzhu/cesm/cases/b.e12.B1850C5.f19_g16.i21ka.03/Buildconf/clmconf/config_cache.xml
+#! For help on options use: /gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/lnd/clm/bld/CLM build-namelist -help
+#!--------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,7 @@
+bnd_topo    = '/glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/topo_21ka_remap_19x25.mod.170428.sm9.nc'
+scenario_ghg= 'FIXED'
+co2vmr      = 190e-6
+ch4vmr      = 375e-9
+n2ovmr      = 200e-9
+f11vmr      = 0.0
+f12vmr      = 0.0

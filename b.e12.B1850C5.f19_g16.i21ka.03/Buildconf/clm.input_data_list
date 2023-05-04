@@ -1,0 +1,7 @@
+fatmlndfrc = /glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/domain.lnd.fv19_25_gx1v6_21ka.170501.nc
+fsurdat = /glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/surfdata_1.9x2.5_21ka.170505.modshelves.nc
+fpftcon = /glade/p/cesmdata/cseg/inputdata/lnd/clm2/pftdata/pft-physiology.clm40.c130424.nc
+fsnowaging = /glade/p/cesmdata/cseg/inputdata/lnd/clm2/snicardata/snicar_drdt_bst_fit_60_c070416.nc
+finidat = b.e12.21ka.002.clm2.r.0301-01-01-00000.nc
+fsnowoptics = /glade/p/cesmdata/cseg/inputdata/lnd/clm2/snicardata/snicar_optics_5bnd_c090915.nc
+megan_factors_file = /glade/p/cesmdata/cseg/inputdata/atm/cam/chem/trop_mozart/emis/megan21_emis_factors_c20120313.nc

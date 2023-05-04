@@ -1,0 +1,12 @@
+sfwf_filename = /glade/p/cesmdata/cseg/inputdata/ocn/pop/gx1v6/forcing/sfwf_mm_PHC2_salx_flxio_20090205.ieeer8
+niw_energy_file = /glade/p/cesmdata/cseg/inputdata/ocn/pop/gx1v6/forcing/niw_gx1v6_20100915.ieeer8
+init_ts_file = /glade/p/cesmdata/cseg/inputdata/ocn/pop/gx1v6/ic/ts_PHC2_jan_ic_gx1v6_20090205.ieeer8
+chl_filename = /glade/p/cesmdata/cseg/inputdata/ocn/pop/gx1v6/forcing/chl_filled_20061230.ieeer8
+init_wiso_init_file = same_as_TS
+init_nd_init_file = same_as_TS
+prescribed_filename = /glade/work/jiangzhu/data/inputdata/nd_prescribed_gx1v6_20161123.nc
+tidal_energy_file = /glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/tidal_energy_21ka_M07_gx1v6_20150115.ieeer8
+region_mask_file = /glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/21ka_region_mask_20170501.ieeei4
+topography_file = /glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/21ka_topography_20170501.ieeei4
+horiz_grid_file = /glade/p/cesmdata/cseg/inputdata/ocn/pop/gx1v6/grid/horiz_grid_20010402.ieeer8
+shf_filename = /glade/p/cesmdata/cseg/inputdata/ocn/pop/gx1v6/forcing/shf_mm_all_85-88_20010308.ieeer8

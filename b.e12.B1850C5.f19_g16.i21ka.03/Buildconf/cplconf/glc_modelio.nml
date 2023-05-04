@@ -1,0 +1,11 @@
+&modelio
+ diri = '/glade/scratch/jiangzhu/b.e12.B1850C5.f19_g16.i21ka.03/bld/glc'
+ diro = '/glade/scratch/jiangzhu/b.e12.B1850C5.f19_g16.i21ka.03/run'
+ logfile = 'glc.log.181212-015243'
+/
+&pio_inparm
+ pio_numiotasks = -99
+ pio_root = -99
+ pio_stride = -99
+ pio_typename = 'nothing'
+/

@@ -1,0 +1,25 @@
+tavg_file_freq_opt  = 'nmonth' 'never' 'once'
+
+topography_file     = '/glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/21ka_topography_20170501.ieeei4'
+region_mask_file    = '/glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/21ka_region_mask_20170501.ieeei4'
+tidal_energy_file   = '/glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/tidal_energy_21ka_M07_gx1v6_20150115.ieeer8'
+tidal_energy_file_fmt   = 'bin'
+bckgrnd_vdc1        = 0.17
+bckgrnd_vdc_ban     = 0
+
+! namelists for wiso
+wiso_comp_surf_avg_freq_opt = 'nmonth'
+wiso_comp_surf_avg_freq     = 1
+wiso_use_nml_surf_vals      = .false.
+prescribed_filename         = '/glade/work/jiangzhu/data/inputdata/nd_prescribed_gx1v6_20161123.nc'
+
+! IC, comment out after first run
+! init_iage_option        = 'file'
+! init_iage_init_file_fmt = 'nc'
+! init_iage_init_file     = '/glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/b.e12.B1850C5.f19_g16.i21ka.01.pop.h.0400-0499.climo.tracers_filled.nc'
+! init_wiso_option        = 'file'
+! init_wiso_init_file_fmt = 'nc'
+! init_wiso_init_file     = '/glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/b.e12.B1850C5.f19_g16.i21ka.01.pop.h.0400-0499.climo.tracers_filled.nc'
+! init_nd_option          = 'file'
+! init_nd_init_file_fmt   = 'nc'
+! init_nd_init_file       = '/glade/work/jiangzhu/data/inputdata/cesm120ka_ICEG6/21ka/b.e12.B1850C5.f19_g16.i21ka.01.pop.h.0400-0499.climo.tracers_filled.nc'

@@ -1,0 +1,17 @@
+/glade/u/home/jiangzhu/cesm/cases/b.e12.B1850C5.f19_g16.i21ka.03/SourceMods/src.cam
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/chemistry/pp_trop_mam3
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/chemistry/modal_aero
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/chemistry/mozart
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/chemistry/bulk_aero
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/chemistry/utils
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/physics/rrtmg
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/physics/rrtmg/ext/rrtmg_mcica
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/physics/rrtmg/ext/rrtmg_lw
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/physics/rrtmg/ext/rrtmg_sw
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/physics/cam
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/dynamics/fv
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/utils/pilgrim
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/cpl_mct
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/cpl_share
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/control
+/gpfs/u/home/jiangzhu/cesm/iCESM1_2_0_1_geotrace_n03/models/atm/cam/src/utils
